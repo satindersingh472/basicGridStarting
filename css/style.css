@@ -1,0 +1,22 @@
+body{
+    display:grid;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    display: grid;
+    min-height: 50px;
+    background-color: dimgray;
+}
+main{
+    display: grid;
+    min-height: calc(100vh-100px);
+    background-color: bisque;
+
+}
+footer{
+    display: grid;
+    min-height: 50px;
+    background-color: dimgray;
+}
